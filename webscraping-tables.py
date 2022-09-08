@@ -1,3 +1,5 @@
+#!/usr/bin/env python3 #Esta linea no se debe borrar
+#  -*- coding: utf-8 -*-
 import requests
 from bs4 import BeautifulSoup
 from plyer import notification
