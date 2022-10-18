@@ -3,3 +3,6 @@ venv
 build
 dist
 webscraping-tables.spec
+Lib
+Scripts
+pyvenv.cfg
